@@ -17,7 +17,7 @@ Test scenario dan test step : https://docs.google.com/spreadsheets/d/1xSWKMfUaLI
 
 How to run :
 
-Git clone : https://github.com/junivia99/Sanber53-TugasAkhir-WebAutomation.git
+Git clone : https://github.com/junivia99/Tugas-Akhir---webdriverio-cucumber.git
 Open folder with VSCode
 Run file dengan perintah berikut : npm run wdio
 
